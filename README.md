@@ -1,6 +1,6 @@
 # list-random
 
-## ** Note this project was created, to help me learn c++. There are better tools out there that can do similar things. **
+## ** Note this project was created to help me learn c++. There are better tools out there that can do similar things. **
 
 ### Description
 This program accepts a file or piped input, and outputs a random sample of the input where each element is split by line.
